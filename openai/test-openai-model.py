@@ -8,8 +8,8 @@ def main():
     try: 
     
 
-        azure_oai_endpoint = 'https://openai-service23434.openai.azure.com/'
-        azure_oai_key = 'f2bb5b49b2dc48d79c4ae6b5618e7504'
+        azure_oai_endpoint = 'https://###################'
+        azure_oai_key = '###################'
         azure_oai_deployment = 'gpt-35-turbo-16k'
         
         # Initialize the Azure OpenAI client...
